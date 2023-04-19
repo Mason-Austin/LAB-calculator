@@ -32,7 +32,7 @@ We are focusing this lesson on creating the HTML and CSS for the caclulator. Our
 - Code a single row of 4 elements to start with and see if you can get that working.
 - Now add the other rows of 4 elements.
 - Finally, add the rows where there are fewer than 4 elements. What do you need to adjust to get these to work?
-- Once your layout is mostly working, add the colors and make it pretty.
+- Once your layout is mostly working, add the colors and make it pretty
 
 ## HTML and CSS Tips and Hints
 
